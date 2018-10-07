@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:description
+    xmlns:x="http://www.jenitennison.com/xslt/xspec"
+    schematron="../../main/sch/toto.sch">
+    
+    <x:scenario label="test de toto">
+        <x:context href="../samples/test.xml" />
+        <x:expect-valid />
+    </x:scenario>
+    
+    
+    
+</x:description>
